@@ -1,0 +1,8 @@
+title: Resultakak
+description: resultakak
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
